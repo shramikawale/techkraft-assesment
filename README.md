@@ -8,7 +8,7 @@
 
 **LinkedIn:** https://www.linkedin.com/in/shramik-awale/
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [shramikawale@gmail.com](mailto:shramikawale@gmail.com)
 
 ---
 
