@@ -206,6 +206,23 @@ Features:
 
 ---
 
+## Leadership & Mentorship Approach
+
+As TechKraft has a team of 11 engineers, my focus would be:
+
+- Terraform module standardization  
+- GitOps adoption  
+- AWS Well-Architected reviews  
+- Security-first engineering practices  
+- Incident response playbooks  
+- Observability-driven operations  
+- Internal DevOps workshops  
+- Documentation-first culture  
+
+This approach improves delivery speed, system reliability, and operational maturity while significantly reducing infrastructure and security risks across environments.
+
+---
+
 # Notes
 
 This repository contains my solutions for the TechKraft DevOps assessment. I focused on providing production-oriented answers with emphasis on **security, reliability, automation, and operational readiness**.
